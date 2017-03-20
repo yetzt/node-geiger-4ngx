@@ -1,0 +1,17 @@
+{
+  "name": "geiger-4ngx",
+  "version": "0.0.1",
+  "description": "4N-Galaxy Geiger Counter Client",
+  "main": "index.js",
+  "author": "yetzt <node@yetzt.me>",
+  "license": "Unlicense",
+  "dependencies": {
+    "debug": "^2.6.3",
+    "iconv-lite": "^0.4.15",
+    "serialport": "^4.0.7"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/yetzt/node-geiger-4ngx.git"
+  }
+}
